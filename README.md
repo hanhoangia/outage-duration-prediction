@@ -67,8 +67,3 @@ Since the resulting p-value is 0.14 and is above our cutoff of 0.05, we failed t
 
 
 
-### Discussion and Reflection
-
-
-
-
