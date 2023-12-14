@@ -1,4 +1,5 @@
-# outage-duration-prediction
+# Predicts the Duration of an Outage that Caused by Severe Weather
+Author: Han Hoang
 
 This project is completed as an assignment for DSC 80 at UCSD.
 
